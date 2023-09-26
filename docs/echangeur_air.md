@@ -1,21 +1,25 @@
-## VENTILATEUR RÉCUPÉRATEUR DE CHALEUR ou VRC
-Aeromatic 7240 / Aldes
-Date: 2021/05/06
-Dans les cas des unités de la Tannerie il apparaît que des unités présentent un excès d’humidité durant l’hiver, de la condensation sur les fenêtres, provenant d’un ventilateur à récupération de chaleur n'étant pas en bon état de fonctionnement ou non utilisé correctement. Ce document vise à rassembler des informations pour aider à la compréhension de la bonne utilisation de ces appareils ainsi que de parer à des défauts observés limitant leurs performances.
+﻿## VENTILATEUR RÉCUPÉRATEUR DE CHALEUR ou VRC
+Les unités de la Tannerie sont toutes équipées d'un échangeur d'air à récupération de chaleur. 
+La présence de forte condensation sur les fenêtres durant tout l'hiver, ou bien par exemple un fonctionnement bruyant permanent perturbant votre quiétude sont des signes que ces appareils ne sont pas en bon état de fonctionnement ou non utilisé correctement.
+Ce document vise à rassembler des informations pour aider à la compréhension et la bonne utilisation de ces appareils, votre quiétude, votre santé et l'intégrité de votre habitation.
+
+![Aeromatic 7240 / Aldes](./images/aeromatic_7240.png)
+
+*mise à jour de la documentation: 2023/09/10*
 
 
 
 ### Pourquoi les unités sont elles équipées d’une VRC
+Afin d’assurer l’efficacité énergétique des habitations, leur construction est faite de manière la plus étanche possible. Cela signifie que l’échange d’air avec l’extérieur est limité au maximum voir totalement. Afin d’assurer un milieu de vie sain, les habitations sont alors dotées d’un système d'échange d'air qui expulse à l'extérieur l'air vicié de l´habitation tout en aspirant à la place de l'air dit "frais" provenant de l’extérieur (un échange de chaleur entre l’air sortant et entrant permet de réduire au maximum les pertes énergétiques).
+Ces VRC sont indispensables au confort de vie et santé des habitants ainsi que pour la préservation du bâtiment évitant que l’humidité ne s’insert dans les matériaux de construction et ne génère des moisissures.
 
-Afin d’assurer l’efficacité énergétique des habitations, leur construction est faite de manière étanche. Cela signifie que l’échange d’air avec l’extérieur est limité au maximum voir totalement. Afin d’assurer un milieu de vie sain, les habitations sont dotées d’un système de ventilation à récupération de chaleur (VRC), qui élimine les polluants de la maison et l'excès d’humidité en remplaçant l’air intérieur vicié par de l’air frais de l’extérieur (un échange de chaleur entre l’air sortant et entrant permet de réduire au maximum les pertes énergétiques).
-Ces VRC sont indispensables au confort de vie des habitants ainsi que pour la santé du bâtiment sur le long terme évitant que l’humidité ne s’insert dans les matériaux de construction et ne génère des moisissures.
-Il est donc indispensable que les VRC de chaque unité soient en permanence branchées et en bon état de fonctionnement.
+**Il est donc indispensable et obligatoire que les VRC de chaque unité soient en permanence branchées et en bon état de fonctionnement.**
 
 Ces informations proviennent du site du gouvernement du Canada
-    • Ressources Naturelles du Canada fournit des informations concernant l’utilité et l’utilisation des échangeurs d’air : https://www.rncan.gc.ca/ventilateurs-recuperateurs-de-chaleur-et-denergie/16198
 
-    • Dans les “Publications sur l’efficacité énergétique” du site ce document “VENTILATEURS-RECUPERATEURS DE CHALEUR (MAX 20) M144-234-2011 F” définit le besoin et le fonctionnement général de ces appareils
-http://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/oee/files/pdf/publications/HRV_FR.pdf?_ga=2.143841853.94713409.1605635961-1981936114.1605635961
+ - Ressources Naturelles du Canada fournit des informations concernant l’utilité et l’utilisation des échangeurs d’air : [ressources-naturelles.canada.ca -> ventilateurs-recuperateurs-de-chaleur-et-denergie](https://ressources-naturelles.canada.ca/efficacite-energetique/efficacite-energetique-produits/equipement-de-climatisation-et-de-ventilation-usage-residentiel/ventilateurs-recuperateurs-de-chaleur-et-denergie/16198)
+ 
+ - Dans les “Publications sur l’efficacité énergétique” du site ce document “VENTILATEURS-RECUPERATEURS DE CHALEUR (MAX 20) M144-234-2011 F” définit le besoin et le fonctionnement général de ces appareils : [natural-resources.canada.ca -> publications -> HRV_FR.pdf](https://natural-resources.canada.ca/sites/www.nrcan.gc.ca/files/oee/files/pdf/publications/HRV_FR.pdf?_ga=2.143841853.94713409.1605635961-1981936114.1605635961)
 
 
 
@@ -23,69 +27,105 @@ http://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/oee/files/pdf/publications/HR
 Le principe de fonctionnement consiste à échanger de l’air vicié humide de l’intérieur de l’unité avec de l’air frais plus sec provenant de l’extérieur.
 De plus, il utilise la chaleur de l’air intérieur pour réchauffer l’air froid venant de l’extérieur afin de limiter la perte d’énergie. D’où son appellation commune d’échangeur d’air à récupération de chaleur.
 
-Représentation de principe mais n’est pas une exacte reproduction des unité de la Tannerie
+![Principe - vue condo](./images/principe_vue_condo.png)*
+Représentation de principe - ce n’est pas une exacte reproduction des unités de la Tannerie, seule la salle de bains a une conduite d'aspiration*
+![Principe - vue VRC](./images/principe_vue_VRC.png)
+
+
 Cela permet donc de diminuer le taux d’humidité ambiante, la condensation sur les fenêtres par exemple, ainsi que cela contribue à la réduction des odeurs.
+
 L’appareil a 2 états de fonctionnement, il est soit dans l’état actif, soit dans l’état repos :
-Actif / activé (haute vitesse) ou échange
-C’est le mode d’échange d’air avec l’extérieur (haute vitesse) lorsque que l’utilisateur le demande avec la minuterie ou lorsque que l’humidité ambiante passe au dessus de de la valeur de consigne réglée sur le boîtier
-Repos
+
+**Actif / activé (haute vitesse) ou échange**
+C’est le mode d’échange d’air avec l’extérieur (haute vitesse)
+Activé lorsque que l’utilisateur le demande avec la minuterie ou lorsque que l’humidité ambiante passe au dessus de de la valeur de consigne réglée sur le boîtier
+
+**Repos**
 L’état repos ou “inactif” est le mode fonctionnement dans lequel se met l’échangeur d’air lorsqu'il n’est plus commandé soit par la minuterie, soit par une humidité ambiante déjà inférieur à la consigne réglée sur le boîtier.
 Il est possible de choisir parmi 3 modes différents possibles au repos en fonction du branchement qui a été fait :
-            i. Recirculation de l’air, basse vitesse, à l’intérieur de l’unité, aucun échange avec l’extérieur (mode par défaut, recommandé par le fabricant)
-            ii. Echange d’air, basse vitesse, avec l’extérieur (mode équivalent à l’état actif mais à plus basse vitesse, le plus consommateur d’énergie)
-            iii. Totalement inactif (configuration la moins consommatrice d’énergie et qui peut régler un éventuel problème d’évacuation de condensation, voir section “Problèmes Observés”)
-C’est un échangeur d’air et non un déshumidificateur : 
-    • Durant une journée de pluie ou d’été, l’air extérieur étant plus humide, l’appareil ne pourra jamais réduire l’humidité de l’unité en échangeant l’air, puisqu’il fera entrer l’humidité extérieure. Une consigne réglée trop basse ferait en sorte que l’appareil soit activé en permanence.
-    • Même si l’humidité dans ces conditions ne peut être réduite cela permet quand même d’assainir l’air ambiant, de réduire les mauvaises odeurs.
+
+1. Recirculation de l’air, basse vitesse, à l’intérieur de l’unité, aucun échange avec l’extérieur *(mode par défaut)*
+
+2. Echange d’air, basse vitesse, avec l’extérieur *(mode équivalent à l’état actif mais à plus basse vitesse)*
+
+3. Totalement inactif *(mode uniquement disponible avec un boitier de commande électronique Aldes dédié)*
+
+
+
+> **Notez que cet appareil est un échangeur d’air et non un déshumidificateur** :
+> 
+> • Durant une journée de pluie ou d’été chaude, l’air extérieur devenant plus humide, l’appareil ne pourra jamais réduire l’humidité de l’unité en échangeant avec l’air extérieur, puisqu’il ne fera que recycler avec un air plus humide. Une consigne d'humidité réglée trop basse entrainera alors l’appareil à être activé inutilement en permanence.
+> 
+> • Même si l’humidité dans ces conditions ne peut être réduite cela permet tout de même d’assainir l’air ambiant, de réduire les mauvaises odeurs, avec de l'air extérieur. La minuterie est particulièrement pratique dans ces conditions.
+
 
 
 ### Ce qu’il faut savoir
 Pour le confort quotidien, le taux d’humidité ambiante recommandé varie de 40% à 60%. 50% étant une bonne moyenne.
-Durant l’été, l’humidité de l’air extérieur est souvent plus élevée, la réduction du taux d’humidité via l’échangeur d’air est moins efficace. Il est difficile voir impossible de descendre le taux d’humidité de l’unité à 40% durant cette saison. Des fenêtres ouvertes peuvent aussi très bien faire l’affaire.
+
+![Consigne été vs hiver](./images/consigne_ete_hiver_small.png)
+
+Durant l’été, l’humidité de l’air extérieur est souvent élevée, la réduction du taux d’humidité via l’échangeur d’air est moins efficace. L'échangeur d'air restera malgré tout le meilleur moyen de se débarrasser de la surcharge d'humidité créée par un bain ou une douche.
 Durant l’été la consigne d’humidité ciblée sera alors réglée entre 50% et 60%.
-Durant l’hiver c’est l’inverse, l’air extérieur étant très sec, la diminution de l’humidité ambiante par échange d’air devient très efficace.  De plus, la température extérieure très faible engendre la création de forte condensation d’eau sur les fenêtres pouvant entraîner des coulures allant jusqu’à abîmer le contour.
+
+Durant l’hiver c’est l’inverse, l’air extérieur étant très sec, la diminution de l’humidité ambiante par échange d’air devient très efficace. Il est important d'avoir un échangeur d'air opérationnel afin d'éviter l'apparition de forte condensation d’eau sur les fenêtres pouvant entraîner des dégâts.
 Durant l’hiver la consigne d’humidité ciblée sera alors réglée plus proche des 40%.
 
-Le taux d’humidité recherché est à ajuster en fonction de votre confort, mais d’une manière générale, dû aux conditions météorologiques, il sera toujours plus humide durant l’été et plus sec durant l’hiver.
+Le taux d’humidité recherché est à ajuster en fonction de votre confort, mais d’une manière générale, dû aux conditions météorologiques, il sera toujours plus humide durant l’été ou un jour de pluie et plus sec durant l’hiver.
 
 Voici la table de référence indiquée dans le manuel utilisateur.
-
+![Recommandation consigne](./images/recommandation_consigne.png)
 
 
 ### Comment utiliser la VRC
 Le boîtier de contrôle du taux d’humidité
-Il permet de régler la consigne d’humidité que l’utilisateur souhaite obtenir dans son unité, par exemple 50%. Si on veut un environnement plus sec, on tourne le bouton dans le sens des aiguilles d’une montre, vers la droite, sur 40% par exemple.
-Lorsqu’on tourne le bouton de droite à gauche il y a une position qui fait entendre une sorte de clic sonore. La position de ce clic donne une indication du niveau approximatif du taux d’humidité à l’intérieur de l’unité.
-L’exemple ci-contre montre qu’on entend le clic un peu au-dessus de 50%. On peut en conclure que le taux d’humidité au sein de l’unité est d’environ 50% ce qui est très bien.
-Si on tourne le bouton vers la droite, sens des aiguilles d’une montre (zone verte), cela va activer l’échange d’air à vitesse maximale pour essayer de diminuer le taux d’humidité.
-Si on plaçait le bouton à 40% la machine tournerait alors jusqu’à ce que le taux d’humidité réduise à la consigne de 40% demandée.
-Si on continue de tourner le bouton complètement par la droite, on atteint la position ON qui fera tourner l’échange d’air à vitesse maximale en permanence et ne s’arrêtera que lorsque que le bouton sera retourné vers la gauche.
-Au contraire du cas précédent, si on tournait le bouton dans le sens contraire des aiguilles d’une montre, la zone rouge, cela augmenterait la consigne d'humidité désirée. La machine ne se mettra donc pas en marche puisque le taux d’humidité est déjà plus bas que la nouvelle consigne. La VRC démarrera et tournera moins souvent.
-Si le on continuait de tourner le bouton complètement jusqu’à la position OFF, le VRC ne se déclencherait plus jamais.
-Réglage de la vitesses des ventilateurs
+
+![Boitier contrôle](./images/boitier_controle_small.png)
+
+Il permet de régler la consigne d’humidité que l’utilisateur souhaite obtenir dans son unité, par exemple 50%. Si on veut un environnement plus sec, on tourne le bouton dans le sens des aiguilles d’une montre, sur 40% par exemple.
+
+Lorsqu’on tourne le bouton de droite à gauche il y a une position qui fait entendre une sorte de clic sonore. La position de ce clic donne une indication du niveau approximatif du taux d’humidité détecté à l’intérieur de l’unité.
+
+ - La photo d'exemple ci-dessus montre qu’on entend le clic un peu au-dessus de 50%. On peut en conclure que le taux d’humidité au sein de l’unité est d’environ 50% ce qui est très bien.
+ 
+ - Si on tourne le bouton dans le sens des aiguilles d’une montre (zone verte), cela va activer l’échange d’air à vitesse maximale. Si on plaçait le bouton à 40% la machine tournerait alors jusqu’à ce que le taux d’humidité réduise à la consigne de 40% demandée. Le clic se ferait alors entendre de plus en plus bas jusqu'à environ 40% et la mise au repos de la machine. 
+Si on continuait de tourner le bouton complètement dans ce sens, on atteindrait la position ON qui activera obligatoirement l’échange d’air à vitesse maximale et ne s’arrêtera jamais à moins que le bouton soit retourné dans le sens opposé passé le clic.
+ 
+ - Au contraire du cas précédent, si on tournait le bouton dans le sens contraire des aiguilles d’une montre, la zone rouge, cela augmenterait la consigne d'humidité désirée. La machine ne se mettra donc pas en marche puisque le taux d’humidité est déjà plus bas que la nouvelle consigne. La VRC démarrera et tournera moins souvent.
+Si le on continuait de tourner le bouton complètement jusqu’à la position OFF, zone de désactivation, le VRC ne se serait plus jamais activée en mode échange à haute vitesse et resterait indéfiniment dans son mode repos *(voir principe de fonctionnement)*.
+
+
+
+### Réglage de la vitesses des ventilateurs
 Lorsque la VRC est activée pour échanger l’air et diminuer le taux d'humidité, les ventilateurs fonctionnent alors en vitesse “haute”.
-Inactivé, au repos pour le mode de recirculation interne, les ventilateurs tournent en vitesse “basse”.
+Désactivé / au repos, les ventilateurs tournent en vitesse “basse” (à exception de l'état d'inactivité complète obtenable avec le contrôleur électronique).
 
-Une vitesse “haute” plus élevée permet d’avoir une période d’activation, pour réduire le taux d’humidité, plus efficace, plus courte, mais va générer plus de bruit. A partir d’un certain point cela pourrait vous réveiller durant la nuit. Si besoin pour votre confort il faut diminuer cette vitesse mais ne surtout pas débrancher complètement l’appareil.
-La vitesse basse permet de faire circuler l’air entre les pièces lorsque l’appareil n’est plus activé, que le taux d’humidité est bon. Faites en fonction de vos préférences et sachez que vous pouvez la réduire au minimum, cela n’aura pas d’impact sur la capacité de l’appareil à éliminer l’air vicié ni votre taux d’humidité ambiant. 
-Pour ajuster l’intensité de la vitesse “basse” :
-    • Enfoncez le bouton  pendant cinq secondes.
-    • Lorsque la lumière clignote lentement, ceci indique que les ventilateurs fonctionnent actuellement à basse vitesse et que vous pouvez passer à l’ajustement.
-    • Ajustez la basse vitesse en utilisant les deux boutons et afin d’augmenter ou réduire l’intensité.*
-    • Pour mettre fin à l’ajustement, enfoncez un des deux boutons pendant trois secondes ou cessez de toucher aux boutons pendant plus de cinq minutes.
+![Panneau de réglage](./images/reglages.jpg)
 
-Pour ajuster l’intensité de la vitesse “haute” :
-    • Enfoncez le bouton pendant cinq secondes.
-    • Lorsque la lumière clignote rapidement, ceci indique que les ventilateurs fonctionnent actuellement à haute vitesse et que vous pouvez passer à l’ajustement.
-    • Ajustez la haute vitesse en utilisant les deux boutons et afin d’augmenter ou réduire
-    • l’intensité.*
-    • Pour mettre fin à l’ajustement, enfoncez un des deux boutons pendant trois secondes ou cessez de toucher aux boutons pendant plus de cinq minutes.
-*Si la lumière cesse de clignoter, lors de l’ajustement des vitesses, ceci vous indique que vous avez atteint soit la limite inférieure, soit la limite supérieure.
+Une vitesse "haute" plus élevée permet d’avoir une période d’activation, pour réduire le taux d’humidité, plus efficace, plus courte, mais va générer plus de bruit. A partir d’un certain point cela pourrait vous déranger. Si besoin diminuez cette vitesse mais ne débranchez pas complètement l’appareil.
 
-Retour aux réglages d’usine, valeurs par défauts :
-    • Débrancher la prise murale d’alimentation de l’appareil.
-    • Maintenez les boutons  et  enfoncés tout en rebranchant la prise d’alimentation.
-    • À ce moment la lampe témoin clignote rapidement 3X pour indiquer la réussite de l’opération.
+La vitesse "basse" est celle lorsque l'appareil est au repos (recirculation d’air entre les pièces dans le mode par défaut). Faites en fonction de vos préférences et sachez que vous pouvez la réduire au minimum, cela n’aura pas d’impact sur la capacité de l’appareil à éliminer l’air vicié. 
+
+**Pour ajuster l’intensité de la vitesse "basse"** :
+• Enfoncez le bouton ![Réglage bas](./images/bas.jpg) pendant cinq secondes.
+• Lorsque la lumière clignote lentement, ceci indique que les ventilateurs fonctionnent actuellement à basse vitesse et que vous pouvez passer à l’ajustement.
+• Ajustez la basse vitesse en utilisant les deux boutons et afin d’augmenter ou réduire l’intensité.*
+• Pour mettre fin à l’ajustement, enfoncez un des deux boutons pendant trois secondes ou cessez de toucher aux boutons pendant plus de cinq minutes.
+
+**Pour ajuster l’intensité de la vitesse "haute"** :
+• Enfoncez le bouton ![Réglage haut](./images/haut.jpg) pendant cinq secondes.
+• Lorsque la lumière clignote rapidement, ceci indique que les ventilateurs fonctionnent actuellement à haute vitesse et que vous pouvez passer à l’ajustement.
+• Ajustez la haute vitesse en utilisant les deux boutons et afin d’augmenter ou réduire
+• l’intensité.*
+• Pour mettre fin à l’ajustement, enfoncez un des deux boutons pendant trois secondes ou cessez de toucher aux boutons pendant plus de cinq minutes.
+    
+**Si la lumière cesse de clignoter, lors de l’ajustement des vitesses, ceci vous indique que vous avez atteint soit la limite inférieure, soit la limite supérieure.*
+
+**Retour aux réglages d’usine, valeurs par défauts** :
+• Débrancher la prise murale d’alimentation de l’appareil.
+• Maintenez les boutons ![Réglage bas](./images/bas.jpg) et ![Réglage haut](./images/haut.jpg) enfoncés tout en rebranchant la prise d’alimentation.
+• À ce moment la lampe témoin clignote rapidement 3X pour indiquer la réussite de l’opération.
+
 
 
 ### Entretien de la VRC
