@@ -1,34 +1,37 @@
-﻿## VENTILATEUR RÉCUPÉRATEUR DE CHALEUR ou VRC
-Les unités de la Tannerie sont toutes équipées d'un échangeur d'air à récupération de chaleur. 
+# VENTILATEUR RÉCUPÉRATEUR DE CHALEUR ou VRC
+Les unités de la Tannerie sont toutes équipées d'un échangeur d'air à récupération de chaleur.
+
 La présence de forte condensation sur les fenêtres durant tout l'hiver, ou bien par exemple un fonctionnement bruyant permanent perturbant votre quiétude sont des signes que ces appareils ne sont pas en bon état de fonctionnement ou non utilisé correctement.
+
 Ce document vise à rassembler des informations pour aider à la compréhension et la bonne utilisation de ces appareils, votre quiétude, votre santé et l'intégrité de votre habitation.
 
 ![Aeromatic 7240 / Aldes](./images/aeromatic_7240.png)
 
-*mise à jour de la documentation: 2023/09/10*
+##### *mise à jour de la documentation: 2023/09/10*
+___
 
+## Pourquoi les unités sont elles équipées d’une VRC
+Afin d’assurer l’efficacité énergétique des habitations, leur construction est faite de manière la plus étanche possible. Cela signifie que l’échange d’air avec l’extérieur est limité au maximum voir totalement.
 
+Afin d’assurer un milieu de vie sain, les habitations sont alors dotées d’un système d'échange d'air qui expulse à l'extérieur l'air vicié de l´habitation tout en aspirant à la place de l'air dit "frais" provenant de l’extérieur (un échange de chaleur entre l’air sortant et entrant permet de réduire au maximum les pertes énergétiques).
 
-### Pourquoi les unités sont elles équipées d’une VRC
-Afin d’assurer l’efficacité énergétique des habitations, leur construction est faite de manière la plus étanche possible. Cela signifie que l’échange d’air avec l’extérieur est limité au maximum voir totalement. Afin d’assurer un milieu de vie sain, les habitations sont alors dotées d’un système d'échange d'air qui expulse à l'extérieur l'air vicié de l´habitation tout en aspirant à la place de l'air dit "frais" provenant de l’extérieur (un échange de chaleur entre l’air sortant et entrant permet de réduire au maximum les pertes énergétiques).
 Ces VRC sont indispensables au confort de vie et santé des habitants ainsi que pour la préservation du bâtiment évitant que l’humidité ne s’insert dans les matériaux de construction et ne génère des moisissures.
-
 **Il est donc indispensable et obligatoire que les VRC de chaque unité soient en permanence branchées et en bon état de fonctionnement.**
 
-Ces informations proviennent du site du gouvernement du Canada
+Ces informations proviennent du site du gouvernement du Canada:
 
  - Ressources Naturelles du Canada fournit des informations concernant l’utilité et l’utilisation des échangeurs d’air : [ressources-naturelles.canada.ca -> ventilateurs-recuperateurs-de-chaleur-et-denergie](https://ressources-naturelles.canada.ca/efficacite-energetique/efficacite-energetique-produits/equipement-de-climatisation-et-de-ventilation-usage-residentiel/ventilateurs-recuperateurs-de-chaleur-et-denergie/16198)
  
  - Dans les “Publications sur l’efficacité énergétique” du site ce document “VENTILATEURS-RECUPERATEURS DE CHALEUR (MAX 20) M144-234-2011 F” définit le besoin et le fonctionnement général de ces appareils : [natural-resources.canada.ca -> publications -> HRV_FR.pdf](https://natural-resources.canada.ca/sites/www.nrcan.gc.ca/files/oee/files/pdf/publications/HRV_FR.pdf?_ga=2.143841853.94713409.1605635961-1981936114.1605635961)
+___
 
-
-
-### Principe de fonctionnement
+## Principe de fonctionnement
 Le principe de fonctionnement consiste à échanger de l’air vicié humide de l’intérieur de l’unité avec de l’air frais plus sec provenant de l’extérieur.
 De plus, il utilise la chaleur de l’air intérieur pour réchauffer l’air froid venant de l’extérieur afin de limiter la perte d’énergie. D’où son appellation commune d’échangeur d’air à récupération de chaleur.
 
-![Principe - vue condo](./images/principe_vue_condo.png)*
-Représentation de principe - ce n’est pas une exacte reproduction des unités de la Tannerie, seule la salle de bains a une conduite d'aspiration*
+![Principe - vue condo](./images/principe_vue_condo.png)
+###### *Représentation de principe - ce n’est pas une exacte reproduction des unités de la Tannerie, seule la salle de bains a une conduite d'aspiration*
+
 ![Principe - vue VRC](./images/principe_vue_VRC.png)
 
 
@@ -57,10 +60,10 @@ Il est possible de choisir parmi 3 modes différents possibles au repos en fonct
 > • Durant une journée de pluie ou d’été chaude, l’air extérieur devenant plus humide, l’appareil ne pourra jamais réduire l’humidité de l’unité en échangeant avec l’air extérieur, puisqu’il ne fera que recycler avec un air plus humide. Une consigne d'humidité réglée trop basse entrainera alors l’appareil à être activé inutilement en permanence.
 > 
 > • Même si l’humidité dans ces conditions ne peut être réduite cela permet tout de même d’assainir l’air ambiant, de réduire les mauvaises odeurs, avec de l'air extérieur. La minuterie est particulièrement pratique dans ces conditions.
+___
 
 
-
-### Ce qu’il faut savoir
+## Ce qu’il faut savoir
 Pour le confort quotidien, le taux d’humidité ambiante recommandé varie de 40% à 60%. 50% étant une bonne moyenne.
 
 ![Consigne été vs hiver](./images/consigne_ete_hiver_small.png)
@@ -75,9 +78,9 @@ Le taux d’humidité recherché est à ajuster en fonction de votre confort, ma
 
 Voici la table de référence indiquée dans le manuel utilisateur.
 ![Recommandation consigne](./images/recommandation_consigne.png)
+___
 
-
-### Comment utiliser la VRC
+## Comment utiliser la VRC
 Le boîtier de contrôle du taux d’humidité
 
 ![Boitier contrôle](./images/boitier_controle_small.png)
@@ -93,10 +96,9 @@ Si on continuait de tourner le bouton complètement dans ce sens, on atteindrait
  
  - Au contraire du cas précédent, si on tournait le bouton dans le sens contraire des aiguilles d’une montre, la zone rouge, cela augmenterait la consigne d'humidité désirée. La machine ne se mettra donc pas en marche puisque le taux d’humidité est déjà plus bas que la nouvelle consigne. La VRC démarrera et tournera moins souvent.
 Si le on continuait de tourner le bouton complètement jusqu’à la position OFF, zone de désactivation, le VRC ne se serait plus jamais activée en mode échange à haute vitesse et resterait indéfiniment dans son mode repos *(voir principe de fonctionnement)*.
+___
 
-
-
-### Réglage de la vitesses des ventilateurs
+## Réglage de la vitesses des ventilateurs
 Lorsque la VRC est activée pour échanger l’air et diminuer le taux d'humidité, les ventilateurs fonctionnent alors en vitesse “haute”.
 Désactivé / au repos, les ventilateurs tournent en vitesse “basse” (à exception de l'état d'inactivité complète obtenable avec le contrôleur électronique).
 
@@ -104,141 +106,229 @@ Désactivé / au repos, les ventilateurs tournent en vitesse “basse” (à exc
 
 Une vitesse "haute" plus élevée permet d’avoir une période d’activation, pour réduire le taux d’humidité, plus efficace, plus courte, mais va générer plus de bruit. A partir d’un certain point cela pourrait vous déranger. Si besoin diminuez cette vitesse mais ne débranchez pas complètement l’appareil.
 
-La vitesse "basse" est celle lorsque l'appareil est au repos (recirculation d’air entre les pièces dans le mode par défaut). Faites en fonction de vos préférences et sachez que vous pouvez la réduire au minimum, cela n’aura pas d’impact sur la capacité de l’appareil à éliminer l’air vicié. 
+La vitesse "basse" est celle lorsque l'appareil est au repos (recirculation d’air entre les pièces dans le mode par défaut). Faites en fonction de vos préférences et sachez que vous pouvez la réduire au minimum, cela n’aura pas d’impact sur la capacité de l’appareil à éliminer l’air vicié.
 
-**Pour ajuster l’intensité de la vitesse "basse"** :
-• Enfoncez le bouton ![Réglage bas](./images/bas.jpg) pendant cinq secondes.
-• Lorsque la lumière clignote lentement, ceci indique que les ventilateurs fonctionnent actuellement à basse vitesse et que vous pouvez passer à l’ajustement.
-• Ajustez la basse vitesse en utilisant les deux boutons et afin d’augmenter ou réduire l’intensité.*
-• Pour mettre fin à l’ajustement, enfoncez un des deux boutons pendant trois secondes ou cessez de toucher aux boutons pendant plus de cinq minutes.
+### Pour ajuster l’intensité de la vitesse "basse" :
 
-**Pour ajuster l’intensité de la vitesse "haute"** :
-• Enfoncez le bouton ![Réglage haut](./images/haut.jpg) pendant cinq secondes.
-• Lorsque la lumière clignote rapidement, ceci indique que les ventilateurs fonctionnent actuellement à haute vitesse et que vous pouvez passer à l’ajustement.
-• Ajustez la haute vitesse en utilisant les deux boutons et afin d’augmenter ou réduire
-• l’intensité.*
-• Pour mettre fin à l’ajustement, enfoncez un des deux boutons pendant trois secondes ou cessez de toucher aux boutons pendant plus de cinq minutes.
-    
-**Si la lumière cesse de clignoter, lors de l’ajustement des vitesses, ceci vous indique que vous avez atteint soit la limite inférieure, soit la limite supérieure.*
++ Enfoncez le bouton ![Réglage bas](./images/bas.jpg) pendant cinq secondes.
 
-**Retour aux réglages d’usine, valeurs par défauts** :
-• Débrancher la prise murale d’alimentation de l’appareil.
-• Maintenez les boutons ![Réglage bas](./images/bas.jpg) et ![Réglage haut](./images/haut.jpg) enfoncés tout en rebranchant la prise d’alimentation.
-• À ce moment la lampe témoin clignote rapidement 3X pour indiquer la réussite de l’opération.
++ Lorsque la lumière clignote lentement, ceci indique que les ventilateurs fonctionnent actuellement à basse vitesse et que vous pouvez passer à l’ajustement:  
+*ajustez la basse vitesse en utilisant les deux boutons et afin d’augmenter ou de réduire l’intensité à votre convenance* 
 
++ Pour mettre fin à l’ajustement, enfoncez un des deux boutons pendant trois secondes ou cessez de toucher aux boutons pendant plus de cinq minutes.
+
+### Pour ajuster l’intensité de la vitesse "haute":
+- Enfoncez le bouton ![Réglage haut](./images/haut.jpg) pendant cinq secondes.
+
+- Lorsque la lumière clignote rapidement, ceci indique que les ventilateurs fonctionnent actuellement à haute vitesse et que vous pouvez passer à l’ajustement:  
+*ajustez la haute vitesse en utilisant les deux boutons et afin d’augmenter ou réduire l'intensité à votre convenance*
+
+- Pour mettre fin à l’ajustement, enfoncez un des deux boutons pendant trois secondes ou cessez de toucher aux boutons pendant plus de cinq minutes.
+
+***Si la lumière cesse de clignoter, lors de l’ajustement des vitesses, ceci vous indique que vous avez atteint soit la limite inférieure, soit la limite supérieure.***
 
 
-### Entretien de la VRC
-Ce que le mode d’emploi indique
-“ATTENTION : TOUJOURS DÉBRANCHER LA FICHE ÉLECTRIQUE AVANT DE FAIRE L’ENTRETIEN
-À chaque mois, vérifiez que l’entrée et la sortie d’air ne soient pas obstruées par des particules ou de la glace.
-Durant l’hiver, vérifiez mensuellement que les ouvertures des drains de condensation ne soient pas obstruées.
-Trois fois par an ou au besoin, nettoyez les filtres avec de l’eau savonneuse, à la main ou au lave-vaisselle.
-Une fois par année ou au besoin, nettoyez le noyau récupérateur de chaleur. Retirez-le délicatement de l’appareil et tirant vers vous. Il est conseillé de porter des gants lors de la manipulation afin d’éviter des coupures.
-Une fois par année, de préférence à l’automne, passer l’aspirateur à l’intérieur de l’appareil.”
-Complément utile d’information
-Les entrées et sorties d’air étant situées sur la façade du bâtiment et éventuellement sous le balcon de l’étage supérieur, les chances qu’elles soient obstruées dans notre cas sont minimes. Regardez les à l’occasion mais vous n’avez pas besoin de vous inquiéter plus que cela.
-Il est probable que les filtres apposés sur le noyau ne soient pas lavables comme ceux d’une hotte de cuisine par exemple, mais composés d’une mousse jetable. Faites appel à votre bon sens.
-Dans le cas de filtres jetables, changez-les. Éventuellement achetez des filtres lavables. Les références sont données dans les fiches techniques en annexe à la fin du document. N’hésitez pas à contacter un distributeur.
-Lors de l’ouverture de la VRC, plus fréquemment en période hivernale, vous pourriez être surpris par un volume d’eau condensée à l’intérieur de l’appareil assez conséquent. Prévoyez de quoi récupérer l’eau et d’essuyer d’éventuelles coulures, mais surtout libérez la zone pour éviter de mouiller, ou d’endommager, vos biens.
+### Retour aux réglages d’usine, valeurs par défauts:
 
-En ouvrant la trappe, l’apparition d’eau dans le drain est un bon signe que vous risquez d’avoir de l’eau qui va couler par terre. Refermez et allez vous équiper avec de quoi éviter les dégâts.
+Débrancher la prise murale d’alimentation de l’appareil.
+
++ Maintenez les boutons ![Réglage bas](./images/bas.jpg) et ![Réglage haut](./images/haut.jpg) enfoncés tout en rebranchant la prise d’alimentation.
+
++ À ce moment la lampe témoin clignote rapidement 3X pour indiquer la réussite de l’opération.
+___
 
 
-En plein hiver, période avec la plus grosse condensation, on voit ici des signes que le noyau est plein d’eau. Il va falloir un seau.
+## Entretien de la VRC
+### Ce que le mode d’emploi indique
+*ATTENTION : TOUJOURS DÉBRANCHER LA FICHE ÉLECTRIQUE AVANT DE FAIRE L’ENTRETIEN*
 
-Exemple de la quantité d’eau rencontré durant la période la plus froide et donc créant le plus de condensation.
+*"À chaque mois, vérifiez que l’entrée et la sortie d’air ne soient pas obstruées par des particules ou de la glace.*
+
+*Durant l’hiver, vérifiez mensuellement que les ouvertures des drains de condensation ne soient pas obstruées.*
+
+*Trois fois par an ou au besoin, nettoyez les filtres avec de l’eau savonneuse, à la main ou au lave-vaisselle.*
+
+*Une fois par année ou au besoin, nettoyez le noyau récupérateur de chaleur. Retirez-le délicatement de l’appareil et tirant vers vous. Il est conseillé de porter des gants lors de la manipulation afin d’éviter des coupures.*
+
+*Une fois par année, de préférence à l’automne, passer l’aspirateur à l’intérieur de l’appareil."*
+___
 
 
-Les meilleures consignes possibles pour nettoyer le noyau récupérateur de chaleur sont inscrites dessus :
+### Complément utile d’information
+#### Ouverture
++ Les entrées et sorties d’air étant situées sur la façade du bâtiment ou éventuellement sous le balcon de l’étage supérieur, les chances qu’elles soient obstruées dans notre cas sont minimes. Regardez les à l’occasion mais vous n’avez pas besoin de vous inquiéter plus que cela. La majeure partie sont de toute façon inaccessible vu leur positionnenent en hauteur sur la façade.
 
-Après avoir trempé le noyau dans l’eau, celui-ci va mettre beaucoup de temps à sécher. Il est donc recommandé de faire ce nettoyage durant une période sèche avec peu de condensation ambiante. Ne pas exposer le noyau en plein soleil durant l’été.
++ Il est probable que les filtres apposés sur le noyau ne soient pas lavables comme ceux d’une hotte de cuisine par exemple, mais composés d’une mousse jetable. Faites appel à votre bon sens.
 
-Ces filtres ont 2 ans, ils étaient blancs à l’origine !
-Leur référence est #612407, sont identifiés comme étant de haute efficacité, mais sont très onéreux et ne sont pas lavables.
++ Dans le cas de filtres jetables, changez-les. Éventuellement achetez des filtres lavables. Des références sont données dans les fiches techniques en annexe à la fin du document. Aeromatic a été racheté par Aldes depuis, c'est eux qu'il faut contacter pour obtenir de plus amples insformations.
 
-
-Il est possible de les refaire à partir d’un filtre générique, moins efficace mais moins onéreux. Il faudra les changer plus souvent.
-L’option des filtres lavables semble une bonne idée.
-
-
-Nettoyage des conduites d’air
-Il est tout aussi important de faire nettoyer les conduites. Cette opération doit être planifiée car elle nécessite des outils adaptés pour brosser l’intérieur des conduites qui traversent toute l’unité afin d'éliminer les impuretés. Des professionnels sont spécialisés dans ces opérations.
-
++ Lors de l’ouverture de la VRC, plus fréquemment en période hivernale, vous pourriez être surpris par un volume d’eau condensée à l’intérieur de l’appareil assez conséquent. Prévoyez de quoi récupérer l’eau qui va tomber et d’essuyer les éclaboussures.
++ Pensez à libérer la zone pour éviter de mouiller, ou d’endommager, vos biens.
++ ⚠ Débranchez absolument la prise électrique murale avant d'ouvrir, vous pourriez avoir les mains et les pieds mouillés !
 
 
 
-### Problème de condensation / forte humidité ambiante
+![Présence d'eau dans le drain](./images/eau_drain.png)
+##### *En ouvrant la trappe, l’apparition d’eau dans le drain est un bon signe que vous risquez d’avoir de l’eau qui va couler par terre. Refermez et allez vous équiper avec de quoi éviter les dégâts.*
 
-Vérification de bon fonctionnement de la VRC
+
+
+![Le noyau est plein d'eau](./images/noyau_plein_eau.png)
+##### *En plein hiver, période avec la plus grosse condensation, on voit ici des signes que le noyau est plein d’eau. A l'extraction du noyau une bonne quantité d'eau va couler. Vous allez avoir besoin d'un récipient.*
+
+
+
+![Le noyau est plein d'eau](./images/exemple_eau.png)
+
+![Le noyau est plein d'eau](./images/mouille.png)
+##### *Exemple de la quantité d’eau rencontré durant la période la plus froide et donc créant le plus de condensation.*
+___
+
+
+#### Noyau
++ Les meilleures consignes possibles pour nettoyer le noyau récupérateur de chaleur sont inscrites dessus :
+
+![Nettoyer le noyau](./images/consignes_nettoyage_noyau.png)  
+
++ Après avoir trempé le noyau dans l’eau, celui-ci va mettre beaucoup de temps à sécher. Il est donc recommandé de faire ce nettoyage durant une période sèche avec peu d'humidité ambiante.
++ ⚠ Ne surtout pas exposer le noyau en plein soleil durant l’été, il va fondre, se déformer et l'échangeur d'air ne pourra plus fonctionner normalement.
+___
+
+
+#### Filtres
+![Filtres usés](./images/filtres_degueulasses.png)
+##### *Ces filtres ont 2 ans, ils étaient blancs à l’origine !*
+
+##### *Leur référence est #612407, sont identifiés comme étant de haute efficacité, mais sont très onéreux et ne sont pas lavables.*
+
+
+![Filtres usés](./images/filtres_DIY.png)
+##### *Il est possible de les refaire à partir d’un filtre générique, moins efficace mais moins onéreux. Il faudra les changer plus souvent.*
+
+##### *L’option des filtres lavables semble donc une bonne idée.*
+
+
+#### Nettoyage des conduites d’air
+Il est tout aussi important de faire nettoyer les conduites.
+
+Cette opération doit être planifiée car elle nécessite des outils adaptés pour aspirer l’intérieur des conduites qui traversent toute l’unité afin d'éliminer les impuretés.
+
+Des professionnels sont spécialisés dans ces opérations.
+___
+
+
+## Problème de condensation / forte humidité ambiante
+
+### Vérification de bon fonctionnement de la VRC
+
 La seule méthode pour assurer que l’ensemble des composantes nécessaires à la bonne évacuation de l’air est d’ouvrir le boîtier et d’activer la VRC.
-Il est donc important pour votre sécurité de faire cette opération au calme, sans perturbation extérieure et dans un environnement complètement dégagé. Et ce uniquement si vous comprenez bien les étapes au préalable et avez les compétences pour le faire.
-Si ce n’était pas le cas, n’hésitez pas à faire appel à une personne d’expérience, ou du métier, et profitez de sa présence pour montrer les points suivants et les vérifier ensemble.
+
+***⚠ Il est donc important pour votre sécurité de faire cette opération au calme, sans perturbation extérieure et dans un environnement complètement dégagé. Et ce uniquement si vous comprenez bien les étapes au préalable et avez les compétences pour le faire.***
+
+***⚠ Si ce n’était pas le cas, n’hésitez pas à faire appel à une personne d’expérience, ou du métier, et profitez de sa présence pour montrer les points suivants et les vérifier ensemble.***
+
+
 Le moment idéal pour faire cette vérification est lors d’une opération de nettoyage du noyau :
-    • Commencez par débrancher l’alimentation de la prise murale
-    • Ouvrez le caisson de la VRC, enlevez le noyau et procédez aux opérations de nettoyage suivant le manuel et les informations complémentaires de ce guide.
-Avant de remonter le noyau dans la VRC, pendant que votre environnement est encore dégagé et que la VRC est encore ouverte continuez à l’étape suivante
-    • Tournez le bouton du boitier totalement vers la droite (consigne à 0%, ON, activation forcée permanente)
++ Commencez par débrancher l’alimentation de la prise murale
++ Ouvrez le caisson de la VRC, enlevez le noyau et procédez aux opérations de nettoyage suivant le manuel et les informations complémentaires de ce guide
++ Avant de remonter le noyau dans la VRC, pendant que votre environnement est encore dégagé et que la VRC est encore ouverte continuez à l’étape suivante :
+	+ Tournez complètement le bouton du boitier dans le sens des aiguilles d'une montre (consigne à 0%, ON, activation forcée permanente)  
 
-⚠ C’est à partir de ce moment qu’il faut faire attention à ne pas mettre ses doigts dans les ventilateurs.
-Assurez-vous que personne d’autre n’est présent et ne risque de toucher l’intérieur de la VRC. Assurez-vous aussi que vous ne serez pas dérangé ni déstabilisé.
+![VRC fonctionnelle et active](./images/activation_forcee_small.png)
 
-    • Rebranchez l’alimentation électrique murale
-    • Avec 1 seul doigt uniquement, faites pression sur le bouton poussoir de sécurité et maintenez le 15 à 30 secondes pendant que la VRC s’allume et s’active
-    • Vous devez observez la mise en rotation des 2 ventilateurs ainsi que l’ouverture de la trappe d’accès à l’aire extérieur, conformément à la photo suivante
++ ***⚠ C’est à partir de ce moment qu’il faut faire attention à ne pas mettre ses doigts dans les ventilateurs. Assurez-vous que personne d’autre n’est présent et ne risque de toucher l’intérieur de la VRC. Assurez-vous aussi que vous ne serez pas dérangé ni déstabilisé.***:
 
-    • Relâchez le bouton puis débranchez l’alimentation de la prise murale avant de terminer les opérations de nettoyage et de remontage du noyau.
-En cas de défaut les causes possibles, et à vérifier dans l’ordre sont :
-    1. Mauvais câblage - fort probable - référez-vous au manuel d’installation si vous avez les compétences ou faites appel à quelqu’un d’expérience.
+	+ Rebranchez l’alimentation électrique murale
+	
+	+ Avec 1 seul doigt uniquement, faites pression sur le bouton poussoir de sécurité et maintenez le 15 à 30 secondes pendant que la VRC s’allume et s’active
+	
+	+ Vous devez observez la mise en rotation des 2 ventilateurs ainsi que l’ouverture de la trappe d’accès à l’aire extérieur, conformément à la photo suivante
 
-    2. Mauvais contact dans le boîtier de contrôle - probable - à moins d’avoir les compétences pour le vérifier vous devrez faire appel à quelqu’un.
-
-    3. Défaut de la VRC - peu probable - vous devrez vous rapprocher d’un fournisseur pour la faire réparer ou vous équiper d’une nouvelle VRC.
+![VRC fonctionnelle et active](./images/VRC_active.png)
 
 
++ Relâchez le bouton puis débranchez l’alimentation de la prise murale avant de terminer les opérations de nettoyage et de remontage du noyau.
+
+#### En cas de défaut les causes possibles, et à vérifier dans l’ordre sont :
+1. Mauvais câblage - fort probable - référez-vous au manuel d’installation si vous avez les compétences ou faites appel à quelqu’un d’expérience.
+2. Mauvais contact dans le boîtier de contrôle - probable - à moins d’avoir les compétences pour le vérifier vous devrez faire appel à quelqu’un.
+3. Défaut de la VRC - peu probable - vous devrez vous rapprocher d’un fournisseur pour la faire réparer ou vous équiper d’une nouvelle VRC.
 
 
-Porte salle de bain
-L’aspiration de l’air vicié, chargé d’humidité, pour l’évacuation vers l’extérieur se fait par la salle de bain. Lorsque non nécessaire la porte de salle de bain doit donc rester ouverte en permanence. Si vous avez l’habitude de la garder fermée en tout temps, l’ouvrir est la première des choses à faire.
+### Porte salle de bain
+L’aspiration de l’air vicié, chargé d’humidité, pour l’évacuation vers l’extérieur se fait par la salle de bain. A l'exception des moments où cela est strictement nécessaire, la porte de salle de bain **doit rester en permanence ouverte**.
 
-Déplacement du boîtier de contrôle
-Il a été observé dans plusieurs unités que le boîtier de contrôle du taux d’humidité était installé à l’entrée. Or cette zone est la plus sèche de toute l’unité. L’humidité de la salle de bain peut alors se répartir dans les pièces et se condenser sur les fenêtres sans augmenter suffisamment le taux au niveau du contrôleur. L’échangeur ne se déclenche alors pas du tout ou pas assez.
-Une bonne solution est donc de brancher le boîtier de contrôle dans la salle de bain à la place de la minuterie (la minuterie ira alors prendre la place libre dans l’entrée).
-
-Extrait du manuel d’installation
+Si vous aviez l’habitude de garder la porte fermée en tout temps, l’ouvrir est la toute première des choses à faire !
 
 
+### Déplacement du boîtier de contrôle
+Il a été observé dans des unités que le boîtier de contrôle du taux d’humidité était installé dans une zone particulièrement sèche de toute l’unité (entrée par example). Suivant les fluctuations d'air au sein du bâtiment et de l'unité, l’humidité de la salle de bain a la possibilité de se répartir dans les pièces et de condenser sur les fenêtres sans que le boîtier de contrôle ne détecte une augmentation significative. L’échangeur ne se déclenche alors pas du tout ou pas assez. L'humidité reste prisonnière de l'unité malgré un échangeur d'air nettoyé et en état de fonctionnement.
 
-Utilisation de la minuterie / réduction de la consigne
-Déclencher la minuterie sur 40 ou 60 minutes :
-    • À chaque douche ou bain
-    • Lorsque vous cuisinez
-    • Faites votre lavage
-Vous pouvez aussi diminuer la consigne d’humidité sur le boîtier vers 30% ou peut-être même 20% durant la saison hivernale ou la condensation est la plus intense. Attention par contre, pensez à être présent pour observer le comportement. Si vous descendez la consigne trop bas vous risquez de mettre la VRC en activation forcée en permanence, cela finirait par gaspiller de l’énergie, engendrer des pertes de chaleur et générer du bruit dommageable pour votre confort.
+La solution est de déplacer le boîtier de contrôle dans une zone plus adéquat.
+
+Dans le cas de nos unités, les câbles électriques sont tels qu'il est possible d'inverser la position du boîtier avec celui de la minuterie se trouvant dans la salle de bain. Le boîtier de contrôle, se trouvant maintenant dans la pièce la plus humide, va immédiatement capter l'augmentation du taux ambiant et activer automatiquement la VRC la VRC parfaitement efficace.
+
+*La minuterie ira alors prendre la place libre, l’entrée par exemple, sera maintenant l'endroit d'où vous pourrez temporairement activer votre VRC en cas de besoin ponctuel déćhange d'air.* 
+
+
+##### *Extrait du manuel d’installation*
+![Emplacement commande](./images/emplacement_commande.png)
+
+
+
+### Utilisation de la minuterie / réduction de la consigne
+**Déclencher la minuterie sur 40 ou 60 minutes :**
++ À chaque douche ou bain
++ Lorsque vous cuisinez
++ Faites votre lavage
+
+Vous pouvez aussi diminuer la consigne d’humidité sur le boîtier vers 30% ou peut-être même 20% durant la saison hivernale ou la condensation est la plus intense. 
+Attention par contre, pensez à être présent pour observer le comportement. Si vous descendez la consigne trop bas vous risquez de mettre la VRC en activation forcée en permanence, cela finirait par gaspiller de l’énergie, engendrer des pertes de chaleur et générer du bruit dommageable pour votre confort.
+
+*Durant les périodes les plus froides il peut arriver que la VRC commence à geler à l'intérieur. Elle se protège automatiquement en faisant tourner à pleine vitesse ses ventilateurs en faisant circuler l'air à l'intérieur de l'unité pour réchauffer sa mécanique. Cela engendre un bruit de VRC en constante activation*
  
-Mauvais drainage
+### Mauvais drainage
 Le tuyau de drainage ne doit pas faire une boucle vers le haut. Si ce n’était pas le cas, ajustez-le comme sur la photo suivante (raccourcissez le si nécessaire).
 Si vous voulez le changer les diamètres du tube sont :
-Intérieur ⅜” ID
+Intérieur ⅜” ID  
 Extérieur ½” OD
 
+![Tuyau drain](./images/tuyau_drain.png)
+
+*Éventuellement il est possible d’ajuster les fixations pour augmenter légèrement l’inclinaison de la machine afin de faciliter l’écoulement de la condensation vers la sortie du drain.*
+___
 
 
+## Annexes
+### Fiche technique
+![Fiche technique](./images/fiche_technique.png)
+___
 
-Éventuellement il est possible d’ajuster les fixations pour augmenter l’inclinaison pour faciliter l’écoulement de la condensation vers la sortie du drain.
-
+### Fournisseurs
 La compagnie Aéromatic n’existe plus et est remplacée par Aldes.
-Cette page donne l’information des filtres compatibles : #612404, #612405, #612406, #612407 que l’on peut trouver sur le site de Aldes: https://www.aldes.ca/residential-ventilation-product/filters/
+
+Cette page donne l’information des filtres compatibles : #612404, #612405, #612406, #612407 que l’on peut trouver sur le site de Aldes: [https://www.aldes.ca/residential-ventilation-product/filters/](https://www.aldes.ca/residential-ventilation-product/filters/)
 
 La liste des distributeurs pour Aldes sera aussi sur leur site.
 
-Le boîtier de contrôle qui est installé dans nos unités : https://www.amazon.ca/gp/product/B00155VU5S
-Manufacturer	
-Broan
-Part Number
-DH100W
-Product Dimensions
-9.53 x 6.99 x 11.3 cm; 226.8 Grams
-Item model number
-686307
+Le boîtier de contrôle qui est installé dans nos unités :  
+**Manufacturer**: Broan  
+
+**Part Number**: DH100W  
+
+**Product Dimensions**: 9.53 x 6.99 x 11.3 cm; 226.8 Grams  
+
+**Item model number**: 686307  
+
+[https://www.amazon.ca/gp/product/B00155VU5S]([https://www.amazon.ca/gp/product/B00155VU5S])
+___
+
+### Manuel original
+[Manuel Aeromatic/Aldes](./ressources/manuel_aeromatic.pdf)
+___
+
+### Ressources diverses
+[Ressources](./ressources/)
+___
+
 
