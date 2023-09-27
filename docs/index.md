@@ -328,6 +328,5 @@ Le boîtier de contrôle qui est installé dans nos unités :
 
 
 ### Ressources diverses
-[Ressources](./tree/main/docs/ressources)
-
+[Ressources](https://github.com/d4d0o/latannerie/tree/main/docs/ressources)
 
